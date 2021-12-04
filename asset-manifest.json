@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ecom-prod/static/css/main.a2e66d79.chunk.css",
+    "main.css": "/ecom-prod/static/css/main.71eb1fcf.chunk.css",
     "main.js": "/ecom-prod/static/js/main.6925b884.chunk.js",
     "main.js.map": "/ecom-prod/static/js/main.6925b884.chunk.js.map",
     "runtime-main.js": "/ecom-prod/static/js/runtime-main.5439b878.js",
@@ -8,7 +8,7 @@
     "static/js/2.e7d9f4eb.chunk.js": "/ecom-prod/static/js/2.e7d9f4eb.chunk.js",
     "static/js/2.e7d9f4eb.chunk.js.map": "/ecom-prod/static/js/2.e7d9f4eb.chunk.js.map",
     "index.html": "/ecom-prod/index.html",
-    "static/css/main.a2e66d79.chunk.css.map": "/ecom-prod/static/css/main.a2e66d79.chunk.css.map",
+    "static/css/main.71eb1fcf.chunk.css.map": "/ecom-prod/static/css/main.71eb1fcf.chunk.css.map",
     "static/js/2.e7d9f4eb.chunk.js.LICENSE.txt": "/ecom-prod/static/js/2.e7d9f4eb.chunk.js.LICENSE.txt",
     "static/media/icon-cart.d0354cd5.svg": "/ecom-prod/static/media/icon-cart.d0354cd5.svg",
     "static/media/icon-close-zoom.de8cdc50.svg": "/ecom-prod/static/media/icon-close-zoom.de8cdc50.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.5439b878.js",
     "static/js/2.e7d9f4eb.chunk.js",
-    "static/css/main.a2e66d79.chunk.css",
+    "static/css/main.71eb1fcf.chunk.css",
     "static/js/main.6925b884.chunk.js"
   ]
 }
