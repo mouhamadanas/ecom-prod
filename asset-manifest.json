@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ecom-prod/static/css/main.a2e66d79.chunk.css",
+    "main.js": "/ecom-prod/static/js/main.6925b884.chunk.js",
+    "main.js.map": "/ecom-prod/static/js/main.6925b884.chunk.js.map",
+    "runtime-main.js": "/ecom-prod/static/js/runtime-main.5439b878.js",
+    "runtime-main.js.map": "/ecom-prod/static/js/runtime-main.5439b878.js.map",
+    "static/js/2.e7d9f4eb.chunk.js": "/ecom-prod/static/js/2.e7d9f4eb.chunk.js",
+    "static/js/2.e7d9f4eb.chunk.js.map": "/ecom-prod/static/js/2.e7d9f4eb.chunk.js.map",
+    "index.html": "/ecom-prod/index.html",
+    "static/css/main.a2e66d79.chunk.css.map": "/ecom-prod/static/css/main.a2e66d79.chunk.css.map",
+    "static/js/2.e7d9f4eb.chunk.js.LICENSE.txt": "/ecom-prod/static/js/2.e7d9f4eb.chunk.js.LICENSE.txt",
+    "static/media/icon-cart.d0354cd5.svg": "/ecom-prod/static/media/icon-cart.d0354cd5.svg",
+    "static/media/icon-close-zoom.de8cdc50.svg": "/ecom-prod/static/media/icon-close-zoom.de8cdc50.svg",
+    "static/media/icon-close.c3904486.svg": "/ecom-prod/static/media/icon-close.c3904486.svg",
+    "static/media/icon-delete.1fd1f1f7.svg": "/ecom-prod/static/media/icon-delete.1fd1f1f7.svg",
+    "static/media/icon-menu.c6107d03.svg": "/ecom-prod/static/media/icon-menu.c6107d03.svg",
+    "static/media/icon-minus.5375535b.svg": "/ecom-prod/static/media/icon-minus.5375535b.svg",
+    "static/media/icon-next.631beb96.svg": "/ecom-prod/static/media/icon-next.631beb96.svg",
+    "static/media/icon-plus.e0083692.svg": "/ecom-prod/static/media/icon-plus.e0083692.svg",
+    "static/media/icon-previous.80616402.svg": "/ecom-prod/static/media/icon-previous.80616402.svg",
+    "static/media/icon-white-cart.5e62f95c.svg": "/ecom-prod/static/media/icon-white-cart.5e62f95c.svg",
+    "static/media/image-product-1.520cc50b.jpg": "/ecom-prod/static/media/image-product-1.520cc50b.jpg",
+    "static/media/image-product-2.c8bb0aac.jpg": "/ecom-prod/static/media/image-product-2.c8bb0aac.jpg",
+    "static/media/image-product-3.af5c71ba.jpg": "/ecom-prod/static/media/image-product-3.af5c71ba.jpg",
+    "static/media/image-product-4.9962862e.jpg": "/ecom-prod/static/media/image-product-4.9962862e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5439b878.js",
+    "static/js/2.e7d9f4eb.chunk.js",
+    "static/css/main.a2e66d79.chunk.css",
+    "static/js/main.6925b884.chunk.js"
+  ]
+}
